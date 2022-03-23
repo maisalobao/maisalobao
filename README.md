@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/maisalobao">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maisalobao&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maisalobao&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
