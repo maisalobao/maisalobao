@@ -1,8 +1,8 @@
 ### ✨ Olá! Eu sou Maísa Lobão 👋
 
-- 📊 Estou aprendendo Análise de Dados 
-- 💻 Estudando Power BI e SQL
-
+- 📊 Estou estudando Análise de Dados 
+- 💻 Fazendo projetos com Power BI, Excel e SQL
+- ⌨ Desenvolvendo as linguagens Dax e M
 
 <div align="center">
   <a href="https://github.com/maisalobao">
