@@ -3,7 +3,6 @@
 - 📊 Estou estudando Análise de Dados 
 - 💻 Fazendo projetos com Power BI, Excel e SQL
 - ⌨ Desenvolvendo as linguagens Dax, M e Python
-- Portfólio: https://sites.google.com/view/portfolio-maisalobao/
 
 <div align="center">
   <a href="https://github.com/maisalobao">
