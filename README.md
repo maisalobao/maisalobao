@@ -1,8 +1,7 @@
 ### ✨ Olá! Eu sou Maísa Lobão 👋
 
 - 📊 Estou estudando desenvolvimento Web e Dados
-- 💻 Fazendo projetos com HTML, CSS, VisualG e outros
-- ⌨ Desenvolvendo as linguagens Dax e Python
+- 💻 Fazendo projetos com HTML, CSS, JS, Java e etc
 
 <div align="center">
   <a href="https://github.com/maisalobao">
